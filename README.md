@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Juan Pablo! 👋  
 
-<!--
-**JJuanPabl0/JJuanPabl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estagiário em Cyber Segurança na 2RP Academy**  
+🔐 Apaixonado por segurança da informação, automação e tecnologia  
+🚀 Explorando Python, Linux, Git e Segurança Cibernética  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JJuanPabl0ss&show_icons=true&theme=dracula)  
+![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=JJuanPabl0s&theme=dracula)  
+
+---
+
+## 🌎 Onde me encontrar  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
+📧 Email: juanpinpa50@gmail.com

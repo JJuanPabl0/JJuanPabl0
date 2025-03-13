@@ -19,12 +19,12 @@
 
 ## 📊 Estatísticas  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JJuanPabl0ss&show_icons=true&theme=dracula)  
-![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=JJuanPabl0s&theme=dracula)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JJuanPabl0&show_icons=true&theme=dracula)  
+![Gráfico de Commits](https://github-readme-activity-graph.vercel.app/graph?username=JJuanPabl0&theme=dracula)  
 
 ---
 
 ## 🌎 Onde me encontrar  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
+🔗 [LinkedIn](www.linkedin.com/in/juan-pablo-9284a6263)  
 📧 Email: juanpinpa50@gmail.com
